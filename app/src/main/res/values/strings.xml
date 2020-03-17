@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">1825104043</string>
+    <string name="text1">曾昱童</string>
+    <string name="btn1">线性布局</string>
+    <string name="btn2">相对布局</string>
+    <string name="btn3">帧布局</string>
+    <string name="btn4">表格布局</string>
+    <string name="btn5">网格布局</string>
+    <string name="us1">第一个Button</string>
+    <string name="us2">第二个Button</string>
+    <string name="us3">第三个Button</string>
+    <string name="us4">第四个Button</string>
+    <string name="rt1">返回</string>
+    <string name="rt2">返回</string>
+    <string name="sz1">1</string>
+    <string name="sz2">2</string>
+    <string name="sz3">3</string>
+    <string name="sz4">4</string>
+    <string name="sz5">5</string>
+    <string name="sz6">6</string>
+    <string name="sz7">7</string>
+    <string name="sz8">8</string>
+    <string name="sz9">9</string>
+    <string name="sz0">0</string>
+    <string name="sz11">+</string>
+    <string name="sz12">-</string>
+    <string name="sz13">*</string>
+    <string name="sz14">/</string>
+    <string name="sz15">=</string>
+    <string name="uc01">水平布局</string>
+    <string name="uc02">垂直布局</string>
+    <string name="uc03">靠左布局</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+
+
+</resources>

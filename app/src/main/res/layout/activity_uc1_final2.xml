@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UC1_final"
+    android:orientation="horizontal"
+    android:gravity="center_vertical|center">
+
+
+    <Button
+        android:id="@+id/shuiping2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/uc01"/>
+    <Button
+        android:id="@+id/chuizhi2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/uc02"/>
+    <Button
+        android:id="@+id/kaozuo2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/uc03"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rt2"/>
+
+
+</LinearLayout>
